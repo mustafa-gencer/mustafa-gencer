@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a Research Engineer in Natural Language Processing & Understanding
 - ⚡ I am a Master student at Dokuz Eylül University
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m currently working on Profanity Words Deection on Turkish Tweets
+- 👯 I’m working on Profanity Words Detection on Turkish Tweets
 - 📫 How to reach me: mustafagencrr@gmail.com
 
 🔗 &nbsp;**Connect with me**
