@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mustafa-gencer/mustafa-gencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mustafa-gencer) 
 
@@ -10,8 +7,7 @@
 - 🔭 I’m currently working as a Research Engineer in Natural Language Processing & Understanding
 - ⚡ I am a Master student at Dokuz Eylül University
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m currently working on Profanity Words Deection on Turkish Tweets
+- 👯 I’m currently working on Profanity Words Deection on Turkish Tweets
 - 📫 How to reach me: mustafagencrr@gmail.com
 
 🔗 &nbsp;**Connect with me**
